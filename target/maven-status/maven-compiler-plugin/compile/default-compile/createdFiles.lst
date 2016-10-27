@@ -1,0 +1,4 @@
+com\sales\mascara\configuration\MascaraConfig.class
+com\sales\mascara\configuration\MascaraInitializer.class
+com\sales\mascara\App.class
+com\sales\mascara\controller\MascaraSalesController.class
